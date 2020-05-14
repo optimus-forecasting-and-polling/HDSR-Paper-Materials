@@ -1,5 +1,4 @@
 # HDSR-Paper-Materials
-Online supplementary materials for The Coronavirus Exponential (2020), HDSR. 
 
 
 This repo provides the supplementary materials for: 
