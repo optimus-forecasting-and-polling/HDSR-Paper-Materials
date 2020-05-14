@@ -1,6 +1,6 @@
 # HDSR-Paper-Materials
 
-This repo outlines the supplementary materials for: 
+This repo provides the supplementary materials for: 
 
 Podkul, A., Vittert, L., Tranter, S., \& Alduncin, A. (2020). The Coronavirus Exponential: A Preliminary Investigation into the Public’s Understanding. Harvard Data Science Review. Retrieved from: 
 
