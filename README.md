@@ -3,7 +3,7 @@
 
 This repo provides the supplementary materials for: 
 
-Podkul, A., Vittert, L., Tranter, S., \& Alduncin, A. (2020). The Coronavirus Exponential: A Preliminary Investigation into the Public’s Understanding. Harvard Data Science Review. Retrieved from: 
+Podkul, A., Vittert, L., Tranter, S., \& Alduncin, A. (2020). The Coronavirus Exponential: A Preliminary Investigation into the Public’s Understanding. Harvard Data Science Review. Retrieved from: https://hdsr.mitpress.mit.edu/pub/imsfxwvi/release/1
 
 ## Materials
 
